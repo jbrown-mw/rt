@@ -1,3 +1,7 @@
 line1
+<<<<<<< HEAD
 line2-master master master b
+=======
+line2-master master master master
+>>>>>>> master
 line3
